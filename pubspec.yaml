@@ -69,6 +69,7 @@ flutter:
     - assets/onedirection.jpg
     - assets/jackson5.jpg
     - assets/nsync.jpg
+    - assets/profile.jpg
   
 
   # An image asset can refer to one or more resolution-specific "variants", see
